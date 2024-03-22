@@ -43,7 +43,7 @@ dependencies {
     implementation(Dependency.core)
     implementation(Dependency.compat)
     implementation(Dependency.googleMaterial)
-    implementation(Dependency.googleMaterial)
+    implementation(Dependency.constraint)
     implementation(Dependency.lifeCycleLiveData)
     implementation(Dependency.lifeCycleViewModel)
     implementation(Dependency.navigationFragment)

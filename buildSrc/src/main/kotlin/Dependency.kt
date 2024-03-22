@@ -3,7 +3,7 @@ object Dependency {
     //Libs
     const val core = "androidx.core:core-ktx:${Version.core}"
     const val compat = "androidx.appcompat:appcompat:${Version.compat}"
-    const val googleMaterial = "com.google.android.material:${Version.googleMaterial}"
+    const val googleMaterial = "com.google.android.material:material:${Version.googleMaterial}"
     const val constraint = "androidx.constraintlayout:constraintlayout:${Version.constraint}"
     const val lifeCycleLiveData = "androidx.lifecycle:lifecycle-livedata-ktx:${Version.lifeCycle}"
     const val lifeCycleViewModel = "androidx.lifecycle:lifecycle-viewmodel-ktx:${Version.lifeCycle}"
