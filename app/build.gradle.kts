@@ -48,6 +48,11 @@ dependencies {
     implementation(Dependency.lifeCycleViewModel)
     implementation(Dependency.navigationFragment)
     implementation(Dependency.navigationUi)
+    //implementation(Dependency.appCompatV7)
+    implementation(Dependency.googlePay)
+    implementation(Dependency.koinAndroid)
+    //implementation(Dependency.googleWallet)
+
     testImplementation(Dependency.junit)
     androidTestImplementation(Dependency.junitTestExt)
     androidTestImplementation(Dependency.espresso)

@@ -9,6 +9,13 @@ object Dependency {
     const val lifeCycleViewModel = "androidx.lifecycle:lifecycle-viewmodel-ktx:${Version.lifeCycle}"
     const val navigationFragment = "androidx.navigation:navigation-fragment-ktx:${Version.navigation}"
     const val navigationUi = "androidx.navigation:navigation-ui-ktx:${Version.navigation}"
+    const val appCompatV7 = "com.android.support:appcompat-v7:${Version.appCompatV7}" //GOOGLE
+    const val googlePay = "com.google.android.gms:play-services-wallet:${Version.googlePlay}" //GOOGLE
+    const val koinCore = "org.koin:koin-core:${Version.koinVersion}"
+    const val koinAndroid = "io.insert-koin:koin-android:${Version.koinVersion}"
+    const val koinScope = "org.koin:koin-android-scope:${Version.koinVersion}"
+    const val koinViewModel = "org.koin:koin-androidx-viewmodel:${Version.koinVersion}"
+    const val googleWallet = "com.google.android.gms:play-services-wallet:${Version.googleWallet}"
 
     //Test Libs
     const val junit = "junit:junit:${Version.junit}"

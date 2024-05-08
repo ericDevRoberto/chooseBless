@@ -3,4 +3,6 @@
     <string name="title_home">Inicio</string>
     <string name="title_dashboard">Seleção</string>
     <string name="title_notifications">Pagamento</string>
+    <string name="home_title">BENÇÃO ONLINE</string>
+    <string name="home_button">Escolher Benção</string>
 </resources>

@@ -5,6 +5,10 @@ object Version {
     const val constraint = "2.1.4"
     const val lifeCycle = "2.7.0"
     const val navigation = "2.7.7"
+    const val appCompatV7 = "24.1.1"
+    const val googlePlay = "18.1.3"
+    const val koinVersion = "3.5.6"
+    const val googleWallet = "18.0.0"
 
 
     const val junit = "4.13.2"
